@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AbhipsaPattnaik_Bplanet/static/css/main.4f8e2b8f.css",
-    "main.js": "/AbhipsaPattnaik_Bplanet/static/js/main.3d3663ac.js",
+    "main.js": "/AbhipsaPattnaik_Bplanet/static/js/main.36b82c6e.js",
     "static/js/453.2a82e7ac.chunk.js": "/AbhipsaPattnaik_Bplanet/static/js/453.2a82e7ac.chunk.js",
     "static/media/heroImage2.png": "/AbhipsaPattnaik_Bplanet/static/media/heroImage2.5b7a2eba9b6707523318.png",
     "static/media/HeroImage1.png": "/AbhipsaPattnaik_Bplanet/static/media/HeroImage1.6b3b63436e6091445dfa.png",
@@ -22,11 +22,11 @@
     "static/media/image7.png": "/AbhipsaPattnaik_Bplanet/static/media/image7.92bec972a0497ac5c775.png",
     "index.html": "/AbhipsaPattnaik_Bplanet/index.html",
     "main.4f8e2b8f.css.map": "/AbhipsaPattnaik_Bplanet/static/css/main.4f8e2b8f.css.map",
-    "main.3d3663ac.js.map": "/AbhipsaPattnaik_Bplanet/static/js/main.3d3663ac.js.map",
+    "main.36b82c6e.js.map": "/AbhipsaPattnaik_Bplanet/static/js/main.36b82c6e.js.map",
     "453.2a82e7ac.chunk.js.map": "/AbhipsaPattnaik_Bplanet/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f8e2b8f.css",
-    "static/js/main.3d3663ac.js"
+    "static/js/main.36b82c6e.js"
   ]
 }
